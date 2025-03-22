@@ -1,0 +1,2 @@
+# cbw-terminal
+my terminal
